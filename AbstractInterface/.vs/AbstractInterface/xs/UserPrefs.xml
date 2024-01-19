@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{352854AE-1008-41DB-9659-63D67956F869}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AbstractInterface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractInterface/IShape.cs">
+    <Files>
+      <File FileName="AbstractInterface/Program.cs" Line="26" Column="1" />
+      <File FileName="AbstractInterface/Circle.cs" Line="21" Column="1" />
+      <File FileName="AbstractInterface/Rectangle.cs" Line="2" Column="28" />
+      <File FileName="AbstractInterface/IShape.cs" Line="11" Column="1" />
+      <File FileName="AbstractInterface/Shape.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractInterface" expanded="True">
+            <Node name="AbstractInterface">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/bin/Debug/net7.0/AbstractInterface
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/bin/Debug/net7.0/AbstractInterface.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/bin/Debug/net7.0/AbstractInterface.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/bin/Debug/net7.0/AbstractInterface.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/bin/Debug/net7.0/AbstractInterface.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/refint/AbstractInterface.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/AbstractInterface.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/InterfaceTaskAndAbstract/AbstractInterface/AbstractInterface/obj/Debug/net7.0/ref/AbstractInterface.dll
